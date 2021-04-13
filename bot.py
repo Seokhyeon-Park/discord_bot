@@ -19,8 +19,8 @@ client = discord.Client()
 def searching(name):
     try:
         name = name
-        #
-        # driver = webdriver.Chrome("C:\\Users\\PARK\Desktop\\discord\\chromedriver.exe")
+        # 
+        # driver = webdriver.Chrome("")
         # driver.get("http://fow.kr/find/"+name)
         # refresh_button = driver.find_element_by_link_text("갱신가능")
         # refresh_button.click()
