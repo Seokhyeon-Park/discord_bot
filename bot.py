@@ -1,5 +1,5 @@
 # ref[1] -  https://softvanilla.github.io/discordbot/discord_%EC%8B%9C%EC%9E%91/
-#           (*Set discord bot, Korean document)
+#           (*Set discord bot, Korean document[blog])
 
 import discord
 import requests
