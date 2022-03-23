@@ -1,5 +1,7 @@
 # discord_bot
 
+# 폐지함 [lol API 있는 지 몰랐음... 나중에 다시 만들 예정]
+
 기본적인 discord bot 사용법은 공식 document 참조
 
 league of legends의 간단한 전적 검색 기능 추가
