@@ -1,6 +1,7 @@
 # discord_bot
 
-# 폐지함 [lol API 있는 지 몰랐음... 나중에 다시 만들 예정]
+### 폐지
+##### (lol API 있는 지 몰랐음... 나중에 다시 개발을...)
 
 기본적인 discord bot 사용법은 공식 document 참조
 
